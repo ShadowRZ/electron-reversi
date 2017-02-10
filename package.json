@@ -1,0 +1,19 @@
+{
+    "name": "electron-reversi",
+    "version": "1.0.0",
+    "description": "Reversi game based on Electron.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/ShadowRZ/electron-reversi.git",
+    "keywords": [
+        "Electron",
+        "Reversi"
+    ],
+    "author": "ShadowRZ",
+    "license": "GNU GPL-3.0+",
+    "devDependencies": {
+        "electron": "^1.4.15"
+    }
+}
